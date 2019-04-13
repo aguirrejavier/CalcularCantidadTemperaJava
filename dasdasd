@@ -1,0 +1,61 @@
+[33mcommit ae3978ba30e057b2d40ad1425bb81751ddeb36cc[m[33m ([m[1;36mHEAD -> [m[1;32mpentagono[m[33m)[m
+Merge: 1109b89 b124a2d
+Author: aguirrejavier <aguirrecarlos1995@gmail.com>
+Date:   Sat Apr 13 01:41:47 2019 -0300
+
+    Merge branch 'pentagono' of https://github.com/aguirrejavier/CantidadTempera into pentagono
+
+[33mcommit 1109b8993c0bd1152363f174a3ffb951fc915225[m
+Author: aguirrejavier <aguirrecarlos1995@gmail.com>
+Date:   Sat Apr 13 01:41:05 2019 -0300
+
+    todo bien?
+
+[33mcommit b124a2db0076ffc0afc036b3461c8dfb2861c082[m[33m ([m[1;31morigin/pentagono[m[33m)[m
+Author: aguirrecarlos <aguirrecarlos1995@gmail.com>
+Date:   Sat Apr 13 01:34:57 2019 -0300
+
+    hoolu
+
+[33mcommit bf0d9b853f93fc03aa6e334250a123b4d0c374cc[m
+Merge: 82b1fa4 b1a6d94
+Author: aguirrejavier <aguirrecarlos1995@gmail.com>
+Date:   Sat Apr 13 01:27:49 2019 -0300
+
+    asd
+
+[33mcommit 82b1fa421b44d3028f6cbe2bfdeeee791029581b[m
+Author: aguirrejavier <aguirrecarlos1995@gmail.com>
+Date:   Sat Apr 13 01:23:55 2019 -0300
+
+    agregue el tostring al rectangulo
+
+[33mcommit b1a6d947ae9d293617cc1de71e6cbe689085efc7[m
+Author: aguirrecarlos <aguirrecarlos1995@gmail.com>
+Date:   Sat Apr 13 01:16:59 2019 -0300
+
+    agregue la funcion calcular perimetro en rectangulo
+
+[33mcommit 9d472f7b069895aa0587378f60db5e0cae192b95[m
+Author: aguirrecarlos <aguirrecarlos1995@gmail.com>
+Date:   Sat Apr 13 00:49:39 2019 -0300
+
+    agregue el tostring
+
+[33mcommit cfded3f54d2cfd8399a4a8de5bdcee33ad81e6ef[m
+Author: aguirrejavier <aguirrecarlos1995@gmail.com>
+Date:   Sat Apr 13 00:30:10 2019 -0300
+
+    Cree la clase pentagono
+
+[33mcommit a6c0122721d66e2bb624e8c906a916655dc6789b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: aguirrejavier <49318876+aguirrejavier@users.noreply.github.com>
+Date:   Fri Apr 12 23:39:11 2019 -0300
+
+    Create README.md
+
+[33mcommit 6737ea6b2f0a2028a932003c0e9431f4d948aed2[m
+Author: aguirrecarlos <aguirrecarlos1995@gmail.com>
+Date:   Fri Apr 12 23:06:12 2019 -0300
+
+    primer commit
