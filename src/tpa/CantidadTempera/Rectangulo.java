@@ -21,5 +21,12 @@ public class Rectangulo extends Figura {
 		System.out.println("Es un rectangulo");
 	}
 	
+	@Override
+	public String toString() {
+		return "Rectangulo [base=" + base + ", altura=" + altura + "]";
+	}
+	
+	
+	
 
 }
