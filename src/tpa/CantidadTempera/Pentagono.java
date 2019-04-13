@@ -24,5 +24,11 @@ public class Pentagono extends Figura {
 	public double calcularArea() {
 		return perimetro()*this.apotema/2;
 	}
+
+	@Override
+	public String toString() {
+		return "Pentagono [apotema=" + apotema + ", lado=" + lado + "]";
+	}
+	
 	
 }
