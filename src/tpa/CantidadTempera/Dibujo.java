@@ -32,7 +32,6 @@ public class Dibujo {
 		
 		Stack<Integer> pila = new Stack<>();
 		
-		pila.
 //		Dibujo dibujo01 = new Dibujo();
 //
 //		dibujo01.agregarFigura(new Circulo(2));

@@ -10,6 +10,10 @@ public class Rectangulo extends Figura {
 		this.base = base;
 		this.altura = altura;
 	}
+	
+	private double calcularPerimetro() {
+		return this.base *2 + this.altura*2;
+	}
 	@Override
 	public double calcularArea() {
 		
@@ -20,6 +24,13 @@ public class Rectangulo extends Figura {
 	public void colorFigura(){
 		System.out.println("Es un rectangulo");
 	}
+	
+	@Override
+	public String toString() {
+		return "Rectangulo [base=" + base + ", altura=" + altura + "]";
+	}
+	
+	
 	
 
 }
