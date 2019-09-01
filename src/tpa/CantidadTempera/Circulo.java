@@ -3,6 +3,7 @@ package tpa.CantidadTempera;
 public class Circulo extends Figura {
 	
 	private double radio;
+	private double jeje;
 	
 	public Circulo(double radio) {	
 		this.radio = radio;
